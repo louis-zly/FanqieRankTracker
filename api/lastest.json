@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "prev_date": "2026-07-01",
+  "date": "2026-07-03",
+  "prev_date": "2026-07-02",
   "types": [
     {
       "type": "all",
@@ -21,7 +21,7 @@
     {
       "type": "游戏体育",
       "url": "api/lastest/%E6%B8%B8%E6%88%8F%E4%BD%93%E8%82%B2.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "女频衍生",
@@ -71,7 +71,7 @@
     {
       "type": "青春甜宠",
       "url": "api/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
