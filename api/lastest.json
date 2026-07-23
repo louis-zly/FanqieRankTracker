@@ -1,12 +1,12 @@
 {
-  "date": "2026-07-22",
-  "prev_date": "2026-07-21",
+  "date": "2026-07-23",
+  "prev_date": "2026-07-22",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 359
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -36,7 +36,7 @@
     {
       "type": "种田",
       "url": "api/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "年代",
